@@ -23,7 +23,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ### Links
 
 - Solution URL: [Github repo](https://github.com/itsmemohit/fm-stats-preview-component)
-- Live Site URL: [Netlify live site url](https://gregarious-brigadeiros-eb6a6a.netlify.app/)
+- Live Site URL: [Netlify live site url](https://whimsical-cocada-6c3deb.netlify.app/)
 
 ## My process
 
